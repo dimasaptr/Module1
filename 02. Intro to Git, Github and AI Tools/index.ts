@@ -29,3 +29,4 @@ console.log(angka);
 console.log(`Angka favorit setelah di tambah 1: ${angka}`);
 console.log(`Angka favorit: ${angka + 3}`);
 
+// ada komen baru
