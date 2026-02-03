@@ -30,3 +30,8 @@ console.log(`Angka favorit setelah di tambah 1: ${angka}`);
 console.log(`Angka favorit: ${angka + 3}`);
 
 // ada komen baru
+
+// contoh
+let number: number = 10;
+let result: number = number * 2;
+console.log("result is: " + result);
