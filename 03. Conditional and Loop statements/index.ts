@@ -35,7 +35,7 @@ if (isEnoughMoney) {
     console.log(`Kamu tidak bisa membeli nasi goreng! huhu kasian deh`);
 }
 
-const grade: string = `E`;
+const grade: string = `A`;
 
 if (grade === `A`) {
     console.log(`Nilai: Sangat Baik!`);
@@ -77,3 +77,4 @@ if (isEven) {
 } else {
     console.log(`${n} adalah bialngan ganjil.`);
 }
+
